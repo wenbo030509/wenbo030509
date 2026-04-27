@@ -38,16 +38,12 @@
   <img src="https://img.shields.io/badge/微调-LoRA%2FSFT%2FRLHF-red?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-### 编程与数据
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
 
-### 产品与工具
+### 能力与工具
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Axure-000000?style=for-the-badge&logo=axure&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -63,18 +59,8 @@
 - 采用LightGBM算法构建模型，结合高维统计特征工程
 - 达到**0.96 AUC**，欺诈点击识别**召回率93%**
 
----
+### 未完待续
 
-## 📊 GitHub 统计数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wangwenbo0305&show_icons=true&locale=cn&theme=radical" alt="wangwenbo0305" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangwenbo0305&theme=radical" alt="wangwenbo0305" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangwenbo0305&show_icons=true&locale=cn&layout=compact&theme=radical" alt="wangwenbo0305" />
-</p>
 
 ---
 
@@ -103,9 +89,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/9aa87c35d6fc70581a14ec58d52c7e58775d87627d57e86b7e41a6e974438f0d/68747470733a2f2f696d6775722e636f6d2f334d716d4d566a2e676966" alt="Coding" width="400" />
-</p>
 
 <p align="center">
   <em>"打造放大人类潜力的智能Agent。" 🚀</em>

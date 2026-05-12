@@ -1,5 +1,5 @@
-<h1 align="center">你好 👋，我是王文博</h1>
-<h3 align="center">🤖 从0到1的AI Agent产品经理 | 多智能体架构实践者</h3>
+<h1 align="center">Hi 👋，我是王文博</h1>
+<h3 align="center">Agent Builder & PM | aka全干攻城🦁 | 痛点驱动 ｜ 实践出真知者</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wangwenbo0305&label=Profile%20views&color=0e75b6&style=flat" alt="wangwenbo0305" />
@@ -9,22 +9,11 @@
 
 ## 🧑‍💻 关于我
 
-- 🎯 **AI原生产品经理**，具备从0到1独立设计AI Agent产品的完整实战经验
-- 🏢 **百度**品牌广告AI产品经理，主导Agent投放与多模态风控产品建设
+- 🎯 **AI产品经理**，具备从0到1独立设计AI Agent产品的完整实战经验
+- 🏢 **百度**品牌广告，主导参与Agent投放与多模态风控产品建设
 - 🤖 深入理解AI Agent全链路架构：Memory | 知识库 | RAG | Skills | MCP | Tool Use
 - 📊 熟练运用SQL + Python进行数据驱动决策，具备ML/DL算法基础
 - 🌱 持续跟踪Agentic Workflow、多Agent协作等前沿动态并落地业务场景
-
----
-
-## 🏆 核心成就
-
-| 项目 | 成果 |
-|------|------|
-| **百度品牌广告AI Agent** | 迁移成功率92%，投放链路步骤减少60%，人力成本降低98% |
-| **多模态风控审核系统** | 审核效率提升87.5%，误判率下降70.8%，长尾召回率提升23.6% |
-| **Price-Agent商品比价助手** | 从0到1独立设计AI搜索Agent，7阶段158+用例评测体系 |
-| **TalkingData广告欺诈检测** | 2亿数据LightGBM建模，AUC 0.96，欺诈召回率93% |
 
 ---
 
@@ -52,24 +41,6 @@
   <img src="https://img.shields.io/badge/Axure-000000?style=for-the-badge&logo=axure&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
-
----
-
-## 💼 工作经历
-
-### **百度** | 品牌广告 AI 产品经理
-*2025.08 - 2026.04*
-
-**一键百看生成 & 投放能力建设 Agent**
-- 设计多渠道素材统一资产数据模型，整合品专历史物料与官网抓取等多源数据，自动生成主KV卡、官网卡、服务卡、商品卡、下载卡等结构化资产卡
-- 主导品专历史物料迁移Agent设计，规划Logo多级回源策略（物料供给 → 平台供给 → 官网抓取）
-- 设计资产-买词语义匹配策略，基于素材内容解析匹配买词集合，解决资产入库卡点
-- 设计智能助手任务编排与节点管理框架，串联资产生成、问答生成、调度触达等模块，形成「资产选择 → 意图匹配 → 一键提交」标准化执行闭环
-
-**多模态风控审核优化**
-- 协同风控策略团队搭建品牌广告全场景多模态训练数据供给体系
-- 设计"大模型分级预审 → 高置信度自动过审 → 低置信度人工复核"的 AI+人工协同审核链路
-- 落地视频智能抽帧与全模态时序风险识别能力
 
 ---
 
@@ -102,13 +73,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangwenbo0305&show_icons=true&locale=cn&layout=compact&theme=radical" alt="wangwenbo0305" />
 </p>
-
----
-
-## 🏅 资质认证
-
-- **阿里云大数据助理工程师（ACA）**
-- **英语**：雅思6.5（6） / CET6，可熟练阅读英文技术文档
 
 ---
 

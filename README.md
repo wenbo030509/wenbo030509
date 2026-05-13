@@ -46,14 +46,16 @@
 
 ## 🚀 代表项目
 
-### Price-Agent 商品对比智能助手 🔗 [GitHub: price-agent](https://github.com/wenbo030509/price-agent)
-*从0到1独立设计的AI搜索Agent产品*
+### Price-Agent 智能识物比价 AI 助手 🔗 [GitHub: price-agent](https://github.com/wenbo030509/price-agent)
 
-- **产品架构**：规划 ReAct + Plan-Execute + 语义推荐三模式混合策略；设计意图分类路由模块，自动识别"比价/对比/推荐/混合"四类意图并路由至最优执行路径
-- **自反思纠错**：工具返回空结果时自动注入反思提示引导重试，有效降低幻觉率
-- **IT3C行业优化**：针对手机品类设计17字段商品数据模型与归一化别名体系，构建7类使用场景标签；8维度属性评分驱动推荐排序
-- **上下文设计**：滑动窗口上下文管理 + 子步骤引用语法 + 多模态图片识物自动转比价
-- **分层评测**：7阶段分层评测方案（P0-P6），覆盖158+测试用例，评测结论驱动关键迭代
+
+- **Agent 引擎**：基于 ReAct + Plan-Execute + 语义推荐 + 引导式购物四模式混合策略；设计意图分类路由，自动识别推荐/查价/对比/购物四类意图并路由至最优执行路径
+- **自反思纠错**：工具返回空结果时自动注入反思提示引导重试；滑动窗口（6轮）上下文管理，支持模糊指代
+- **语义召回（M2）** ：向量（2048维 Embedding）+ 规则过滤混合检索，语义相似度容错优雅降级
+- **RAG 知识增强（M3）** ：BM25 + 语义混合检索，手机领域知识库按二级标题分块，多类型知识过滤
+- **引导式购物（M5）** ：ShoppingContext 状态机（GREETING → SLOT_FILLING → SEARCHING → RECOMMENDING → FOLLOW_UP），5槽位填充 + 多维度对比
+- **IT3C 手机行业优化**：17字段商品数据模型 + 处理器归一化别名体系（骁龙→sd 等），7类场景标签；多模型路由
+- **分层评测**：P0-P6 七阶段 + IT3C 专项 + M1-M5 模块专项，150+ 测试用例驱动迭代
 
 ### TalkingData 广告点击欺诈检测 🔗 [GitHub: talkingdata-ad-fraud-detection](https://github.com/wenbo030509/talkingdata-ad-fraud-detection)
 
